@@ -1,7 +1,6 @@
 //
 //  ContentView.swift
 //  FruitsPlus
-//
 //  Created by Abdullah Bilgin on 7/26/23.
 //
 
