@@ -61,10 +61,10 @@
 		0D3EDCFB2A70E50E00B168A1 /* FruitsPlus */ = {
 			isa = PBXGroup;
 			children = (
+				0D3EDD0A2A72D74900B168A1 /* App */,
 				0D3EDD152A72E78D00B168A1 /* Data */,
 				0D3EDD122A72E63400B168A1 /* Model */,
 				0D3EDD0B2A72D78B00B168A1 /* View */,
-				0D3EDD0A2A72D74900B168A1 /* App */,
 				0D3EDD002A70E50F00B168A1 /* Assets.xcassets */,
 				0D3EDD022A70E50F00B168A1 /* Preview Content */,
 			);
